@@ -6,6 +6,7 @@ import sympy as sp
 st.set_page_config(layout="wide")  # 전체 너비 사용
 
 st.title("<3 in 1> Complementary Coffee Cups")
+st.markdown("Stewart Calculus Section 8.3. Discovery Project", unsafe_allow_html=True)
 st.markdown("<h3 style='color:#567ace'><center>3114 최유성</center></h3><p></p>", unsafe_allow_html=True)
 
 # 좌우 컬럼 나누기
